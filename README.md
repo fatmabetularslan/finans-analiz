@@ -1,0 +1,1 @@
+finansal veriler üzerinde analiz yaparak, belirli bir hisse senedinin kapanış değerini etkileyen faktörleri anlamak, bu faktörler arasındaki ilişkileri görselleştirmek ve bu veri analizi sonucunda regresyon modeli kullanarak gelecekteki kapanış değerini tahmin etmeye çalışmaktı
